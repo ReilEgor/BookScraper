@@ -1,0 +1,1 @@
+This is a training project for practicing with colly.
